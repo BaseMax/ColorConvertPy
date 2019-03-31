@@ -69,7 +69,7 @@ Finished processing dependencies for ColorConvert==1.0
 
 ---------
 
-## Useful and Resources
+## Useful Resources
 
 - https://docs.python.org/2/install/
 - https://packaging.python.org/tutorials/installing-packages/
