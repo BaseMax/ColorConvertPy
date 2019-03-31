@@ -1,4 +1,14 @@
 #!/usr/bin/env python
+###
+#
+# @Name : ColorConvert.py
+# @Version : 1.0
+# @Programmer : Max
+# @Date : 2019-03-31
+# @Released under : https://github.com/BaseMax/ColorConvertPy/blob/master/LICENSE
+# @Repository : https://github.com/BaseMax/ColorConvertPy
+#
+###
 
 def rgb2hex(values):
 	# return "%s" % (hex(value) [2:]).upper()
