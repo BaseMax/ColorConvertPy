@@ -1,3 +1,14 @@
+###
+#
+# @Name : ColorConvert.py
+# @Version : 1.0
+# @Programmer : Max
+# @Date : 2019-03-31
+# @Released under : https://github.com/BaseMax/ColorConvertPy/blob/master/LICENSE
+# @Repository : https://github.com/BaseMax/ColorConvertPy
+#
+###
+
 import setuptools
 with open("README.md", "r") as fh:
 	Description = fh.read()
