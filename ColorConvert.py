@@ -1,17 +1,17 @@
-def rgb2hex(value):
+def rgb2hex(values):
 	# return "%s" % (hex(value) [2:]).upper()
 	# result = '#'
 	result = ''
-	for value in value:
+	for value in values:
 		result += hex(value)[2:].upper()
 	return result
 
-def hex2rgb(value):
-	value = int(value, 16)
+def hex2rgb(values):
+	values = int(values, 16)
 	hex = 2**8
-	blue = value % hex
-	value = value >> 8
-	green = value % hex
-	value = value >> 8
-	red = value % hex
+	blue = values % hex
+	values = values >> 8
+	green = values % hex
+	values = values >> 8
+	red = values % hex
 	return (red, green, blue)
