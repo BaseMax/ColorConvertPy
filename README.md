@@ -1,5 +1,7 @@
 # Color Convert Python
 
+Tiny library to convert various colored units (rgb, hex).
+
 ## Sample
 
 #### Import
