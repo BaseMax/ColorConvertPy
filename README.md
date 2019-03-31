@@ -1,6 +1,7 @@
 # Color Convert Python
 
-## Sample, Using
+## Using
+
 ```python
 hex = rgb2hex((255,255,255))
 print( hex ) # FFFFFF
