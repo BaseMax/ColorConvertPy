@@ -8,10 +8,9 @@ def rgb2hex(values):
 
 def hex2rgb(values):
 	values = int(values, 16)
-	hex = 256
-	blue = values % hex
+	blue = values % 256
 	values = values >> 8
-	green = values % hex
+	green = values % 256
 	values = values >> 8
-	red = values % hex
+	red = values % 256
 	return (red, green, blue)
