@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def rgb2hex(values):
 	# return "%s" % (hex(value) [2:]).upper()
 	# result = '#'
