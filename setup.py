@@ -1,6 +1,6 @@
 ###
 #
-# @Name : ColorConvert.py
+# @Name : Setup.py
 # @Version : 1.0
 # @Programmer : Max
 # @Date : 2019-03-31
