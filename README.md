@@ -65,3 +65,16 @@ Installed /usr/local/lib/python2.7/site-packages/ColorConvert-1.0-py2.7.egg
 Processing dependencies for ColorConvert==1.0
 Finished processing dependencies for ColorConvert==1.0
 ```
+
+
+---------
+
+## Useful and Resources
+https://docs.python.org/2/install/
+
+https://packaging.python.org/tutorials/installing-packages/
+
+https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html
+
+https://python-packaging.readthedocs.io/en/latest/
+
