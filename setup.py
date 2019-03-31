@@ -2,9 +2,9 @@ import setuptools
 with open("README.md", "r") as fh:
 	Description = fh.read()
 	setuptools.setup(
-		name='ColorConvert',  
-		version='1.0',
-		scripts=['ColorConvert.py'],
+		name="ColorConvert",  
+		version="1.0",
+		scripts=["ColorConvert.py"],
 		url="https://github.com/BaseMax/ColorConvertPy",
 		packages=setuptools.find_packages(),
 		author="Max Base",
