@@ -1,5 +1,5 @@
 def rgb2hex(colors):
-    return f"#{''.join(f'{hex(item)[2:].upper():0>2}' for item in colors)}"
+	return "%s" % (hex(colors) [2:]).upper()
 
 def rgb2hex(colors):
 	result = '#'
